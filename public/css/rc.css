@@ -1,0 +1,57 @@
+#sadrzaj {
+    padding: 40px;
+}
+
+.bg-boja {
+    background-color: #03060C;
+    font-size: 16px;
+}
+
+.dropdown-menu {
+    right: -4.578;
+    left: unset;
+}
+
+.dropdown-item {
+    text-align: center;
+}
+
+.naslov {
+    color: white;
+}
+
+.user-signedin {
+    display: inline-block;
+}
+
+.user-favicon {
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+}
+.red {
+    text-align: center;
+}
+
+.gal-slike {
+    padding: 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.gal-align {
+    display: inline-block;
+}
+
+.gal-opis {
+    background-color: rgba(6, 0, 27, 0.863);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.gal-thumb {
+    padding-bottom: 10px;
+}
